@@ -48,4 +48,12 @@ To launch the application, follow these steps:
 5. Import the project into IDE by selecting the folder where the unzipped project file is located.
 6. Press the green RUN button in the top window.
 
+### Additional Information:
+
+**Author:**
+Bartosz Grygierczyk
+
+**Contact:**
+bartoszgrygierczyk01@gmail.com
+
 
